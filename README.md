@@ -8,7 +8,7 @@
 Скопируйте к себе репозиторий
 
 ```shell
-git clone 
+git clone git@github.com:bblackmamba/test-for-nm.git
 ```
 
 Создайте в корне репозитория .env файл, например:
